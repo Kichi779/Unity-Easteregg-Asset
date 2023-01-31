@@ -25,4 +25,4 @@ Maybe this can teach you the discord webhook system for unity.
 
 The system is actually simple, it works very simply for the first version now. When the player collects 10 easter eggs, discord webhookla sends a message to the discord server. Example
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ![image](https://user-images.githubusercontent.com/92625816/215890266-8b9ac29e-11ed-4829-92e6-9dcaf82e8a62.png)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ![image](https://user-images.githubusercontent.com/92625816/215890266-8b9ac29e-11ed-4829-92e6-9dcaf82e8a62.png)
