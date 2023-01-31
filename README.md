@@ -2,7 +2,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![Gif](https://media.giphy.com/media/6W6CKVE5AqOkb2BqPl/giphy.gif)
 
 # Easter Egg Asset
-
+Unity Version: 2021.3.16f1
 ## What is this asset useful for?
 
 You can add this asset to your game and put hidden easter eggs in many places. After collecting these easter eggs, the player puts a trophy (Reward) next to the player. And it sends a message on Discord with the discord webhook system.
@@ -26,3 +26,5 @@ Maybe this can teach you the discord webhook system for unity.
 The system is actually simple, it works very simply for the first version now. When the player collects 10 easter eggs, discord webhookla sends a message to the discord server. Example
 
 ㅤㅤㅤㅤㅤ![image](https://user-images.githubusercontent.com/92625816/215890266-8b9ac29e-11ed-4829-92e6-9dcaf82e8a62.png)
+
+
