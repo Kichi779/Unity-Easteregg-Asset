@@ -28,3 +28,4 @@ The system is actually simple, it works very simply for the first version now. W
 ㅤㅤㅤㅤㅤ![image](https://user-images.githubusercontent.com/92625816/215890266-8b9ac29e-11ed-4829-92e6-9dcaf82e8a62.png)
 
 
+[![](https://discord.gg/aVk4JUFukk)](https://www.linkpicture.com/q/icons8-discord-30.png)
