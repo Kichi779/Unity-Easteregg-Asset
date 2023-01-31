@@ -9,8 +9,20 @@ You can add this asset to your game and put hidden easter eggs in many places. A
 
 ## How do I install it.
 
-there are 2 kinds of installation types, you can download unity package from the right side and add it to your project with just one click. Or download it as a zip from above and throw the models script and sound u into your project.
+There are 2 kinds of installation types, you can download unity package from the right side and add it to your project with just one click. Or download it as a zip from above and throw the models script and sound u into your project.
 
 ## How do I use it in the project
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![image](https://user-images.githubusercontent.com/92625816/215888574-695f7f00-3bae-4817-8af7-bbab335fdcdb.png)
+Transfer the script as a Player component. And you can arrange it in the following way.
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ![image](https://user-images.githubusercontent.com/92625816/215888574-695f7f00-3bae-4817-8af7-bbab335fdcdb.png)
+
+Add easter eggs as an element. But add more than 10 elements, you need to change this via the script. For example, you added 20 elements and put them in the game (you need to add Box collider to the objects you put in the game) and you need to enter the Script and make the part that says 10. (I wrote in the script where you need to change)
+
+# Discord Webhook 
+
+Maybe this can teach you the discord webhook system for unity.
+
+The system is actually simple, it works very simply for the first version now. When the player collects 10 easter eggs, discord webhookla sends a message to the discord server. Example
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ![image](https://user-images.githubusercontent.com/92625816/215890266-8b9ac29e-11ed-4829-92e6-9dcaf82e8a62.png)
