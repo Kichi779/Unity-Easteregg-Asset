@@ -13,7 +13,7 @@ There are 2 kinds of installation types, you can download unity package from the
 
 ## How do I use it in the project
 
-Transfer the script as a Player component. And you can arrange it in the following way.
+Add the script to the Player. And you can arrange it in the following way.
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ   ![image](https://user-images.githubusercontent.com/92625816/215888574-695f7f00-3bae-4817-8af7-bbab335fdcdb.png)
 
