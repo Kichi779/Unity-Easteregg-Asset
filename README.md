@@ -1,7 +1,7 @@
 ![Ana](https://user-images.githubusercontent.com/92625816/215876796-364d4cd4-2812-4350-b473-cab1b1239401.jpg)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![Gif](https://media.giphy.com/media/6W6CKVE5AqOkb2BqPl/giphy.gif)
 
-# Easter Egg Asset
+# Easter Egg Asset 🐰🥚🎀
 Unity Version: 2021.3.16f1   Asset Version: 0.1 
 ## What is this asset useful for?
 
